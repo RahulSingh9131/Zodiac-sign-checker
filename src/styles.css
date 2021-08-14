@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+span {
+  display: inline;
+}
+h1 {
+  background-color: cyan;
+  margin: orem auto;
+  padding: 1rem;
+}
